@@ -1,3 +1,8 @@
+# Welcome to My Profile
+
+[![](https://visitcount.itsvg.in/api?id=abdelkrimghk&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 👋 Hi there! I'm Karim, a full-stack developer with a primary focus on backend development using Laravel. I’m passionate about creating robust and efficient web applications and have had the opportunity to work on a variety of impactful projects with several companies.<br><br>🔭 Currently, I’m working on several full-stack web projects where I specialize as the backend developer, bringing ideas to life using Laravel alongside other tools in my stack. I’m looking to collaborate on full-platform projects that allow for innovation, optimization, and scalable solutions.<br><br>📚 I’m actively exploring ERP systems, particularly SAP, and looking to deepen my expertise in ERP management and implementation. If you have experience or insights into SAP and ERP best practices, I’d love to connect!<br><br>💡 Ask me about: My backend development skills in Laravel, full-stack development expertise, and my experiences building dynamic web applications.<br><br>😄 Fun Fact: I'm a software enthusiast who’s always up for a challenge and enjoy staying updated with the latest in tech, from dropshipping trends to multimedia database systems.
 
